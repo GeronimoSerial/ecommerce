@@ -16,7 +16,7 @@ public_html/storage
 public_html/hot
 
 storage/*.key
-.env
+
 Homestead.yaml
 Homestead.json
 /.vagrant
@@ -24,3 +24,10 @@ Homestead.json
 /writable/debugbar
 /writable/debugbar
 /writable
+/writable
+/writable
+/writable
+/.continue
+.env
+app/config/MercadoPago.php
+scripts/tienda.sql
